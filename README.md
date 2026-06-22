@@ -1,5 +1,3 @@
-
-
 **Production-ready Apache Spark ETL pipeline** for e-commerce data analytics.
 
 ## 🎯 Overview
