@@ -1,6 +1,4 @@
-# Copia questo codice nel Colab
 
-readme_pro = """# Spark E-commerce Analytics Platform
 
 **Production-ready Apache Spark ETL pipeline** for e-commerce data analytics.
 
@@ -205,15 +203,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Status:** ✅ Production Ready  
 **Maintained:** Yes
 """
-
-# Salva il README
-with open("/home/claude/spark-ecommerce-analytics/README.md", "w") as f:
-    f.write(readme_pro)
-
-print("✅ README.md aggiornato con contenuto PRO")
-print("\nProssimo step: esegui questi comandi nel Colab:")
-print("""
-git add README.md
-git commit -m "docs: add comprehensive README with architecture & metrics"
-git push origin main
-""")
