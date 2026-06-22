@@ -187,7 +187,7 @@ This is a learning project. Feel free to:
 **Federico Coletti** — Data Engineer
 - 🔗 GitHub: [FedericoColetti](https://github.com/FedericoColetti)
 - 📧 Email: federicocoletti03@gmail.com
-- 💼 LinkedIn: [Your LinkedIn URL]
+- 💼 LinkedIn: www.linkedin.com/in/federico-coletti-a71a56414
 
 ---
 
